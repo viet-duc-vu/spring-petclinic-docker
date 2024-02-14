@@ -32,6 +32,7 @@ import jakarta.validation.Validator;
  * @author Michael Isvy Simple test to make sure that Bean Validation is working (useful
  * when upgrading to a new version of Hibernate Validator/ Bean Validation)
  */
+// Viet is here
 class ValidatorTests {
 
 	private Validator createValidator() {
